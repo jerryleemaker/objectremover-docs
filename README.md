@@ -36,7 +36,7 @@ See [Getting started](docs/getting-started.md).
 
 ## Reference
 
-- [Credits, quality, and limits](docs/credits-and-limits.md): pay-as-you-go credits, no subscription, valid 12 months; the free Low preview carries a watermark; paid credits unlock Low, Standard, or Fine quality without a watermark.
+- [Credits, quality, and limits](docs/credits-and-limits.md): pay-as-you-go credits, no subscription, valid 12 months; the free Low preview carries a watermark; paid credits give you Low, Standard, or Fine quality without a watermark.
 - [What works and what fails](docs/what-fails.md)
 - [Blur, crop, or inpaint? And how ObjectRemover compares](docs/comparisons.md)
 - [FAQ](docs/faq.md)
